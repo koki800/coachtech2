@@ -1,0 +1,33 @@
+div{
+  display: flex;
+  justify-content:space-between
+}
+h1{
+  color: blue;
+  position: relative;
+}
+ul{
+  display: flex;
+  justify-content: flex-end;
+  color: blue;
+}
+li{
+  padding-right: 20px;
+}
+.text1{
+ font-size: 70px;
+ color: blue;
+ margin-top: 300px;
+}
+.text2{
+ background-color: blue;
+ width: 80vw;
+ height: 200px;
+}
+img{
+ height: 55vh;
+ position: absolute;
+ top: 200px;
+ right: 0;
+}
+
