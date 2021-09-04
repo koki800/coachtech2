@@ -10,22 +10,22 @@ ul{
   display: flex;
   justify-content: flex-end;
   color: blue;
+  list-style: none;
 }
 li{
   padding-right: 20px;
 }
 .text1{
  font-size: 70px;
- color: blue;
  margin-top: 300px;
 }
 .text2{
  background-color: blue;
- width: 80vw;
+ width: 1200px;
  height: 200px;
 }
 img{
- height: 55vh;
+ height: 450px;
  position: absolute;
  top: 200px;
  right: 0;
